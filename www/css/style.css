@@ -5,6 +5,10 @@ body{
   padding-left: 3%;
   border-radius: 25%;
 }
+@font-face {
+  font-family: fonte;
+  src: url(fonte.ttf);
+}
 .display{
   height: 80px;
   font-size: 50px;
@@ -12,6 +16,7 @@ body{
   color: white;
   border: 0;
   width: 100%;
+  font-family: fonte;
 }
 .CE button{
   font-size: 25px;
