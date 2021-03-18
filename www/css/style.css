@@ -1,0 +1,26 @@
+body{
+  background-color: black;
+  padding-top: 7%;
+  padding-right: 3%;
+  padding-left: 3%;
+  border-radius: 25%;
+}
+.display{
+  height: 80px;
+  font-size: 50px;
+  background-color: black;
+  color: white;
+  border: 0;
+  width: 100%;
+}
+.CE button{
+  font-size: 25px;
+  border-radius: 12px;
+}
+.linha{
+  margin-top: 15px;
+}
+.linha button{
+  font-size: 30px;
+  border-radius: 25%;
+}
